@@ -3,9 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 8
+cv_pdf: martynas-balciunas.pdf
+description: This is the CV section of my portfolio, you can click the PDF Icon to download it, some information is ommited contact me for details.
 toc:
   sidebar: left
 ---
