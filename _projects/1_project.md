@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Thanatos!
+description: I was the Lead Programmaer for A university projected created with a team of 5.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: University Games
 related_publications: true
 ---
 
