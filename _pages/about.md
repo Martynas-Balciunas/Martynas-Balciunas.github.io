@@ -15,17 +15,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a University of Westminster Games Development Student. I have always enjoyed playing games, and now making them is a new passion! So far I have learned core principles such as: Programming, Game Design, Basic Modelling, and Game Enterprise.
+I am a Games Design and Development Student at the University of Westminster, dedicated to mastering the technical and creative aspects of game design and programming. My Academic background has provided me with a solid understanding of key principles, 
+including:
+* Programming
+* Game Design
+* Basic 3D Modelling
+* Game Enterprise and Industry Standards
 
-The <a href='/projects/'>Projects</a> section highlights most of my experience. While the <a href='/blog/'>Blog</a> showcases smaller more niche aspects like <a href='/blog/2023/Making-A-Donut/'>Making a Donut!</a>
-
-So far I have worked with: 
-* Unity3D, Visual Studio 
+In terms of practical experience, I have worked with the following tools and languages:
+* Unity3D, Visual Studio
 * Blender
-* GitHub, Git, Docker, WSL(UBuntu), Visual Studio Code
-* C++, C#, HTML, CSS, GD Script
+* GitHub, Docker, Visual Studio Code, WSL (Ubuntu)
+* C++ , C# , HTML, GDScript
 
-In academic year 2025 I am expected to learn:
+<a href='/projects/'>The Projects</a> section highlights work I have been part of, showing my ability to apply these tools and concepts.<a href='/blog/'>The Blog</a> showcases smaller more niche aspects like <a href='/blog/2023/Making-A-Donut/'>Making a Donut!</a>
+
+In the upcoming academic year, I will be learning:
 * Unreal Engine 5 (Engine Architecture)
 * Mobile Game Development
-* Game Programming Patterns (C++) 
+* Advanced Game Programming Patterns using C++ 
