@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Thanatos!
-description: I was the Lead Programmaer for A university projected created with a team of 5.
-img: assets/img/12.jpg
+description: I was the Lead Programmer for A university MVP project, team of 5.
+img: assets/img/2.jpg
 importance: 1
 category: University Games
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
@@ -23,13 +23,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/thanatos-6.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/thanatos-title.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
