@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio!
 description: This entire website, customized from a template.
-img: assets/img/12.jpg
+img: assets/img/www-icon.png
 importance: 1
 category: Other
 related_publications: false

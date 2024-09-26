@@ -2,8 +2,7 @@
 layout: page
 title: Tsumi no Nami!
 description: The first game that I worked on, based on a brief and used for A-Level Grades!
-img: assets/img/tsumi/player.png
-
+img: assets/img/tsumi/player-icon.png
 importance: 1
 category: Personal Games
 related_publications: false
