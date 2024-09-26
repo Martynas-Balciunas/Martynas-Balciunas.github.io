@@ -2,24 +2,15 @@
 layout: page
 title: Thanatos!
 description: I was the Lead Programmer for A university MVP project, team of 5.
-img: assets/img/2.jpg
+img: assets/img/thanatos-title.png
 importance: 1
 category: University Games
 related_publications: false
 ---
+<div class="row justify-content-sm-center">
+    <iframe frameborder="0" src="https://itch.io/embed/2702310?border_width=2&amp;bg_color=222&amp;fg_color=fff" width="554" height="169"><a href="https://nullyagi.itch.io/thanatos">Thanatos by Null Yagi, arseniy77, HumeyraFA, moiez, Samm</a></iframe>
+</div>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

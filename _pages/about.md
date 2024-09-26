@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Games Design and Development Student at the University of Westminster, dedicated to mastering the technical and creative aspects of game design and programming. My Academic background has provided me with a solid understanding of key principles, 
+I am a Computer Games Development Student at the University of Westminster, dedicated to mastering the technical and creative aspects of game design and programming. My Academic background has provided me with a solid understanding of key principles, 
 including:
 * Programming
 * Game Design

@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: example_pdf.pdf
+cv_pdf: CV-No-Phone.pdf
 
 description: This is the CV section of my portfolio, you can click the PDF Icon to download a similar CV, some information is ommited contact me for details.
 toc:
