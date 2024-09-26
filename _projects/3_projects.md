@@ -5,7 +5,7 @@ description: This entire website, customized from a template.
 img: assets/img/12.jpg
 importance: 1
 category: Other
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

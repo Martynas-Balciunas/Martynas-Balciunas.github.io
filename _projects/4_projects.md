@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tsumi no Nami!
-description: The first game that I worked on, based on a brief and used for A-Level Grades!
+title: Blender Models!
+description: Various Blender Models.
 img: assets/img/12.jpg
-importance: 1
-category: Personal Games
+importance: 2
+category: Other
 related_publications: false
 ---
 
