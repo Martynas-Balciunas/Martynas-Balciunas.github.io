@@ -49,4 +49,3 @@ Some of the components that I built as part of the project:
   
 * Level implementation - Basic implementation adjustment of designed levels to fit game functionality.
 
----
